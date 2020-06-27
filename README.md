@@ -1,0 +1,2 @@
+# bonobo
+Django bonobo example
